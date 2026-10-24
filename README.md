@@ -34,7 +34,4 @@ A fast-paced, standalone HTML5 Canvas arcade space shooter crafted with modern v
 
 ---
 
-## 🚀 How to Run Locally
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/neon-void.git
+
