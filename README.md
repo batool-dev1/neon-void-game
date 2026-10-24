@@ -8,7 +8,7 @@ A fast-paced, standalone HTML5 Canvas arcade space shooter crafted with modern v
 ---
 
 ## 🎮 Live Demo
-> You can play the live version here: **`https://<your-username>.github.io/<your-repo-name>/`**
+> You can play the live version here:(https://batool-dev1.github.io/neon-void-game/)
 
 ---
 
